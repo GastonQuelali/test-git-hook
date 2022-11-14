@@ -28,6 +28,5 @@ done < $1
 echo -e "\n\n***************************** VIEW FILE  result.txt *********************************\n"
 echo -e "RESULTS OF THE SOURCE FILE SEARCH $1 \n"
 cat ./result.txt
-
 # ./search_values.sh source_folder/launchMeter.ts destination_folder/
 # ./search_values.sh destination_folder/launchMeter1.ts destination_folder/
