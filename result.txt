@@ -1,11 +1,5 @@
-destination_folder//launchMeter1.ts:  launch_meter_title: '[01;31m[KLaunch meter[m[K',
 destination_folder//awarts.ts:  launch_meter_title1: '[01;31m[KLaunch meter[m[K',
 ================================================================================
-destination_folder//launchMeter1.ts:  launch_meter_need_help: '[01;31m[KNeed help?[m[K',
 destination_folder//awarts.ts:  launch_meter_need_help1: '[01;31m[KNeed help?[m[K',
 ================================================================================
-destination_folder//launchMeter1.ts:  launch_meter_helper_text: '[01;31m[KSubmit a support query using the button below[m[K',
-================================================================================
-destination_folder//awarts.ts:  awards_award_sent_by_text: '[01;31m[KSent by[m[K',
-destination_folder//awarts.ts:  awards_award_sent_by_text1: '[01;31m[KSent by[m[K',
 ================================================================================

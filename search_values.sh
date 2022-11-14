@@ -19,8 +19,6 @@ while IFS= read -r line || [ -n "$line" ]; do
 	text="${text%*\',}"
 	if [[ $text != $line ]]; then
 		file_name="${1##*/}";
-		#echo -e "file name $file_name";
-		#./search_script.sh "$text" $2 $file_name
 		grep --exclude=$file_name --color=always -H -rw "$text" $2 >> result.txt;
 		echo "================================================================================" >> result.txt
 	fi
